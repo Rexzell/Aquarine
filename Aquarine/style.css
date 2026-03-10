@@ -79,6 +79,7 @@ hr.hrLine:after{
 	left: 1.5%;
 	display: none;
 	cursor: pointer;
+	margin-right: 20px;
 }
 
 .burger div{
@@ -474,7 +475,7 @@ input[type="checkbox"]:not(:checked) ~ .section1 .title{
 	}
 	
 	input[type="checkbox"]{
-		top: 40px;
+		top: 100px;
 		right: 50px;
 	}
 	
@@ -527,6 +528,21 @@ input[type="checkbox"]:not(:checked) ~ .section1 .title{
 
 .nav-active{
 	transform: translateX(0%);
+}
+
+/* Large screen adjustment */
+@media screen and (min-width: 1200px){
+	input[type="checkbox"]{
+		top: 90px;
+		right: 80px;
+	}
+}
+
+@media screen and (min-width: 1600px){
+	input[type="checkbox"]{
+		top: 100px;
+		right: 80px;
+	}
 }
 
 @keyframes animate{
@@ -700,4 +716,3 @@ input[type="checkbox"]:not(:checked) ~ .section1 .title{
 .toggle .line3{
 	transform: rotate(45deg) translate(-2px,-2px);
 }
-
