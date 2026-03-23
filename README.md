@@ -11,7 +11,13 @@ A website showcasing various types of fish, with detailed information and images
 ## Features
 - Responsive UI
 - User-friendly interface
-- 
+- Clean and organized layout using Bootstrap
+- Fish images with horizontal movement animation
+- Detailed information per fish
+- Parallax scrolling effect for a moving water visual
+- Dark mode and light mode toggle (sun and moon icons)
+- Navigation bar for easy section navigation
+- Fast loading and lightweight design
 
 ## How to Run
 Open the `index.html` file in any web browser.
