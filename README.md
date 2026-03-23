@@ -1,5 +1,5 @@
 ## Description
-A personal portfolio featuring a variety of projects that demonstrate my technical skills, creativity, and development experience.
+A website showcasing various types of fish, with detailed information and images for each species.
 
 ## Tech Stack
 - HTML
