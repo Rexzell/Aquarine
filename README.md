@@ -4,12 +4,14 @@ A personal portfolio featuring a variety of projects that demonstrate my technic
 ## Tech Stack
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
+- jQuery
 
 ## Features
 - Responsive UI
 - User-friendly interface
-- My Projects
+- 
 
 ## How to Run
 Open the `index.html` file in any web browser.
